@@ -1,6 +1,10 @@
-# Git の勉強
-
-- git add コマンドで、リポジトリに変更情報を追加する
-  - このことをステージングと言う
-- git commit コマンドで、リポジトリのインデックスに追加された変更情報にコメントを付けてコミットできる
-- git push コマンドで、ローカルのコミットをリモートのリポジトリに反映させることができる
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title>Gitの勉強</title>
+  </head>
+  <body>
+    <h1>Gitのブランチを勉強しています。</h1>
+  </body>
+</html>
